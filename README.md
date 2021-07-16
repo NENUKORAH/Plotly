@@ -2,9 +2,9 @@
 
 ## Purpose
 
-The purpose of this project is to create an interactive dashboard that visualizes visualizes the bacterial data for each volunteer.
+The purpose of this project is to create an interactive dashboard that visualizes the bacterial data for each volunteer.
 
-The dashboard should be to identify the top 10 bacterial species in the belly buttons of the volunteers, the amount of times a week the participant scrubs their belly button
+The dashboard should be able to identify the top 10 bacterial species in the belly buttons of the volunteers, the amount of times a week the participant scrubs their belly button
 and the different bacterias found in the participants belly button.
 
 ## Resources
